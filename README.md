@@ -1,5 +1,6 @@
 ## Hi there 👋 🍀
 
+![Dalancoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalancoder&show_icons=true&theme=radical)
 <!--
 **dalancoder/dalancoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
