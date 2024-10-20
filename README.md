@@ -1,17 +1,10 @@
 ## Hi there 👋 🍀
 
 ![Dalancoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalancoder&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalancoder&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalancoder&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalancoder&show_icons=true)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalancoder&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalancoder)](https://github.com/dalancoder/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalancoder&hide=javascript,html)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalancoder&layout=donut)](https://github.com/dalancoder/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dalancoder&repo=github-readme-stats)](https://github.com/dalancoder/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/dalancoder/github-readme-stats)
-
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/dalancoder)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-quare&labelColor=0e76a8&logo=linkedin&logoColor=white&link=link)](https://linkedin.com/in/mustafa-dalan) 
