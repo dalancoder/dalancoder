@@ -1,6 +1,7 @@
 ## Hi there 👋 🍀
 
 ![Dalancoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalancoder&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalancoder)](https://github.com/dalancoder/github-readme-stats)
 
 
 
