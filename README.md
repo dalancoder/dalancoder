@@ -1,11 +1,7 @@
 ## Hi there 👋 🍀
 
-![Dalancoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalancoder&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalancoder&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalancoder)](https://github.com/dalancoder/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalancoder&hide=javascript,html)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalancoder)](https://github.com/dalancoder/github-readme-stats)
+[![Dalancoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalancoder)](https://github.com/dalancoder/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalancoder&layout=compact)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/dalancoder)
